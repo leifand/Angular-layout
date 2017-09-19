@@ -1,0 +1,9 @@
+#header {
+  width: 972px;
+  border: solid 1px black;
+  background-color: lightblue;
+}
+
+#tag {
+  font-size: 50px;
+}
